@@ -1,0 +1,31 @@
+body {
+    background-color:black;
+    color:white;
+}
+
+#score {
+    font-size:18px;
+    float:left;
+    margin-left:75;
+}
+
+#timer {
+    font-size:18px;
+    float:right;
+    margin-right:75;
+}
+
+#sketch_to_be_drawn {
+    color:aquamarine;
+    font-size:24px;
+}
+
+#show_sketch {
+    float:right;
+    margin-right:50;
+}
+
+h1 {
+    margin-left:150;
+}
+
